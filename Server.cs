@@ -8,8 +8,8 @@ namespace ConsoleApp28
     {
         private static Dictionary<string, double> exchangeRates = new Dictionary<string, double>
     {
-        {"USD/EU",0.92}, 
-        {"EU/USD",1.09}
+        {"USD/EU",0.90}, 
+        {"EU/USD",1.00}
     };
 
         private static object LogLock = new object();
